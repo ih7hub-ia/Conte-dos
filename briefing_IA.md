@@ -107,7 +107,8 @@ Pronto: todo dia o briefing chega na sua caixa de entrada ou no Telegram.
 
 
 ---
-name: briefing-ia-diario (SKILL)
+(SKILL)
+name: briefing-ia-diario 
 description: "Monta o briefing matinal de notícias de IA das últimas 24-48h, com recorte de estratégia e negócio, fontes de autoridade verificadas e o \"so what\" de cada item. Use quando a Jeni pedir briefing, resumo do dia, o que rolou em IA, ou novidades."
 ---
 
